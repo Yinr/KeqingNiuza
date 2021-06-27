@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-06-19T12:09:52.9975465+08:00",
-    "FileCount": 270,
-    "TotalSize": 11553,
+    "LastUpdateTime": "2021-06-27T20:15:14.4316031+08:00",
+    "FileCount": 271,
+    "TotalSize": 11600,
     "Files": [
         {
             "Name": "Aether.png",
@@ -445,6 +445,13 @@
             "SHA256": "C4585D6C4D2BDB2112552E38E0BA4FAAFFA518985683F6CC01674BC02058CCF2"
         },
         {
+            "Name": "Character_Kazuha_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kazuha_Thumb.png",
+            "Path": "resource\\character\\Character_Kazuha_Thumb.png",
+            "Size": 73963,
+            "SHA256": "60AD1B1B93FCD7AF78C1F91833AA63F09FBE9DA17F0BC7CA142FBBA6773C3116"
+        },
+        {
             "Name": "Character_Keqing_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Keqing_Portrait.png",
             "Path": "resource\\character\\Character_Keqing_Portrait.png",
@@ -721,8 +728,8 @@
             "Name": "CharacterInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 4915,
-            "SHA256": "764DE05DAEAE9EED6D2127221587610FC94246A420645BB5BAC3E2476EF15588"
+            "Size": 5069,
+            "SHA256": "963A0E8849A5496291B34393BC2D2F7B260C20B7F944044BEA36C1565156EEBA"
         },
         {
             "Name": "WeaponInfoList.json",
@@ -735,8 +742,8 @@
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 9051,
-            "SHA256": "933DBA4BF701F2FA00722813D9A9E98616A911AF4F998E45C9767C315E6675B0"
+            "Size": 9755,
+            "SHA256": "1EFB1D193FC80FB94DB69380521EB976EFE5AB990B64B959C8C9770651B69E4F"
         },
         {
             "Name": "Air - 鸟之诗.mid",
@@ -1358,8 +1365,8 @@
             "Name": "Weapon_Freedom-Sworn.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Freedom-Sworn.png",
             "Path": "resource\\weapon\\Weapon_Freedom-Sworn.png",
-            "Size": 69871,
-            "SHA256": "0897B0F20C49A71EEEDE26C67DC28134A99EA8FB9F08ABC38FF0CD18B412E377"
+            "Size": 54803,
+            "SHA256": "03F32D6BFA183F6966EFF2CE900B79D81D43E59A4F8C161A706244F585B1E7FA"
         },
         {
             "Name": "Weapon_Frostbearer.png",
