@@ -1,11 +1,11 @@
 {
-    "Version": "0.2.2.21071808",
-    "UpdateTime": "2021-07-18T08:40:10.2136125+08:00",
+    "Version": "0.2.2.21071809",
+    "UpdateTime": "2021-07-18T09:57:30.4086731+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.2.21071808.zip",
-    "PackageName": "KeqingNiuza_0.2.2.21071808.zip",
-    "PackageSHA256": "24E4C396DFCDC07869D6912FAFA196516542D7FC964D494B8056098E2ACA1F62",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.2.21071809.zip",
+    "PackageName": "KeqingNiuza_0.2.2.21071809.zip",
+    "PackageSHA256": "2D4A4EAB944FDBBFEB0EA895454396D4506A38DA7DFB6C31EA782EB4B71B2636",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
@@ -47,7 +47,7 @@
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2870784,
-            "SHA256": "D47D4136B07A42FDBE535DAC646332E8941F3198EF8C7751A3B18B45D87F5DF9"
+            "SHA256": "76B2E30ECB43AF668B5D2A868CBAA900A9E8517B70DCA46C66586B5BCCED3495"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",

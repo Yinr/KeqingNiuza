@@ -1,5 +1,5 @@
 {
-    "LastUpdateTime": "2021-07-18T08:40:07.2077763+08:00",
+    "LastUpdateTime": "2021-07-18T09:57:28.121039+08:00",
     "FileCount": 272,
     "TotalSize": 11650,
     "Files": [
@@ -1906,27 +1906,6 @@
             "Path": "resource\\weapon\\Weapon_Wolf\u0027s_Gravestone.png",
             "Size": 39665,
             "SHA256": "ADD6A270047B6C4705E1107F71E2097823C956027601E92247CC3A49113A5D93"
-        },
-        {
-            "Name": "e_sqlite3.dll",
-            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-arm/native/e_sqlite3.dll",
-            "Path": "dll\\runtimes\\win-arm\\native\\e_sqlite3.dll",
-            "Size": 870400,
-            "SHA256": "B15EF8BF60D419066146C6D4686D98073B462EE32B7353A48AF5853543AC5AE1"
-        },
-        {
-            "Name": "e_sqlite3.dll",
-            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-x64/native/e_sqlite3.dll",
-            "Path": "dll\\runtimes\\win-x64\\native\\e_sqlite3.dll",
-            "Size": 1265664,
-            "SHA256": "3B73661441E0A7A439D5B2A1190D2C9BB326E54BCDB180AAD9F0366BDBD47E07"
-        },
-        {
-            "Name": "e_sqlite3.dll",
-            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-x86/native/e_sqlite3.dll",
-            "Path": "dll\\runtimes\\win-x86\\native\\e_sqlite3.dll",
-            "Size": 989184,
-            "SHA256": "9877F703CE3FB9669D656D24726159B616B2DF25522225BF41BFAFE89954C58A"
         }
     ]
 }
