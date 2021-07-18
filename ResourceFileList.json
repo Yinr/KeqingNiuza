@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-06-27T20:15:14.4316031+08:00",
-    "FileCount": 271,
-    "TotalSize": 11600,
+    "LastUpdateTime": "2021-07-18T08:40:07.2077763+08:00",
+    "FileCount": 272,
+    "TotalSize": 11650,
     "Files": [
         {
             "Name": "Aether.png",
@@ -445,6 +445,13 @@
             "SHA256": "C4585D6C4D2BDB2112552E38E0BA4FAAFFA518985683F6CC01674BC02058CCF2"
         },
         {
+            "Name": "Character_Kazuha_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kazuha_Portrait.png",
+            "Path": "resource\\character\\Character_Kazuha_Portrait.png",
+            "Size": 620843,
+            "SHA256": "A16FCDDF871BDBEAB6BF989ABAF4C8105270214FECB7ED6F583996984B7EB165"
+        },
+        {
             "Name": "Character_Kazuha_Thumb.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kazuha_Thumb.png",
             "Path": "resource\\character\\Character_Kazuha_Thumb.png",
@@ -735,8 +742,8 @@
             "Name": "WeaponInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 18230,
-            "SHA256": "D4F371CFF8382B665F02B4A9D407E0FC41277A188E1032B28CB2AE042C998E45"
+            "Size": 18064,
+            "SHA256": "E6F8266EF9FDBC1F421DA5280C730A18A2A89B97BC6767276F78732EFA8A2045"
         },
         {
             "Name": "WishEventList.json",
@@ -1899,6 +1906,27 @@
             "Path": "resource\\weapon\\Weapon_Wolf\u0027s_Gravestone.png",
             "Size": 39665,
             "SHA256": "ADD6A270047B6C4705E1107F71E2097823C956027601E92247CC3A49113A5D93"
+        },
+        {
+            "Name": "e_sqlite3.dll",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-arm/native/e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-arm\\native\\e_sqlite3.dll",
+            "Size": 870400,
+            "SHA256": "B15EF8BF60D419066146C6D4686D98073B462EE32B7353A48AF5853543AC5AE1"
+        },
+        {
+            "Name": "e_sqlite3.dll",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-x64/native/e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-x64\\native\\e_sqlite3.dll",
+            "Size": 1265664,
+            "SHA256": "3B73661441E0A7A439D5B2A1190D2C9BB326E54BCDB180AAD9F0366BDBD47E07"
+        },
+        {
+            "Name": "e_sqlite3.dll",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/dll/runtimes/win-x86/native/e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-x86\\native\\e_sqlite3.dll",
+            "Size": 989184,
+            "SHA256": "9877F703CE3FB9669D656D24726159B616B2DF25522225BF41BFAFE89954C58A"
         }
     ]
 }

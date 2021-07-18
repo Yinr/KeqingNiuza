@@ -1,17 +1,17 @@
 {
-    "Version": "0.2.2.21061912",
-    "UpdateTime": "2021-06-19T12:09:54.5114289+08:00",
+    "Version": "0.2.2.21071808",
+    "UpdateTime": "2021-07-18T08:40:10.2136125+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.2.21061912.zip",
-    "PackageName": "KeqingNiuza_0.2.2.21061912.zip",
-    "PackageSHA256": "F9CF77846AAEBF9ECE049894C34CCF7DCFF2F1213EA58E928989F6432A15FE47",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.2.21071808.zip",
+    "PackageName": "KeqingNiuza_0.2.2.21071808.zip",
+    "PackageSHA256": "24E4C396DFCDC07869D6912FAFA196516542D7FC964D494B8056098E2ACA1F62",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
-            "Size": 760832,
-            "SHA256": "1362E9E3C7464E96EB137E488AD4AED527A445AEF58E5BBA2DBE0CCB39979743"
+            "Size": 761856,
+            "SHA256": "6B8BB9EB7EF6B1E8C7D67599E08A56C1A0A30DC4CE617A8AA5D5CF62B3387D8F"
         },
         {
             "Name": "KeqingNiuza.exe.config",
@@ -47,7 +47,7 @@
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2870784,
-            "SHA256": "B53FEF395471E6E6A8AB05ADCF8827FFA6AC6C5BE05BA7568A5A3E7E358DBAC6"
+            "SHA256": "D47D4136B07A42FDBE535DAC646332E8941F3198EF8C7751A3B18B45D87F5DF9"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",
@@ -80,6 +80,24 @@
             "SHA256": "8F0FFBA48FB472D3813A39FE3DA6F6E953B813FACF71025DB25CBE814EA98EC9"
         },
         {
+            "Name": "Microsoft.AppCenter.Analytics.dll",
+            "Path": "dll\\Microsoft.AppCenter.Analytics.dll",
+            "Size": 22376,
+            "SHA256": "0F8B2365E3990DDBB214B6D54E7AC95EF6F7E03C93DC29FA1105EB696E25FAFB"
+        },
+        {
+            "Name": "Microsoft.AppCenter.Crashes.dll",
+            "Path": "dll\\Microsoft.AppCenter.Crashes.dll",
+            "Size": 52072,
+            "SHA256": "D4708E394363D5C45325131BD33C120752B01984864DAF1099F641F41B2133C5"
+        },
+        {
+            "Name": "Microsoft.AppCenter.dll",
+            "Path": "dll\\Microsoft.AppCenter.dll",
+            "Size": 144232,
+            "SHA256": "1D3C4C625D8B385E8014547D01265CB593ED244B6F8BD527F8D5D8D2E123C69F"
+        },
+        {
             "Name": "Microsoft.Bcl.AsyncInterfaces.dll",
             "Path": "dll\\Microsoft.Bcl.AsyncInterfaces.dll",
             "Size": 20872,
@@ -102,6 +120,36 @@
             "Path": "dll\\Microsoft.Xaml.Behaviors.dll",
             "Size": 145288,
             "SHA256": "CC62AAC669A524BF4F4EC80B6493B1A920B1A6B999CF39647B9A1E8F6E959B4E"
+        },
+        {
+            "Name": "Newtonsoft.Json.dll",
+            "Path": "dll\\Newtonsoft.Json.dll",
+            "Size": 675752,
+            "SHA256": "3598CCCAD5B535FEA6F93662107A4183BFD6167BF1D0F80260436093EDC2E3AF"
+        },
+        {
+            "Name": "SQLitePCLRaw.batteries_v2.dll",
+            "Path": "dll\\SQLitePCLRaw.batteries_v2.dll",
+            "Size": 6144,
+            "SHA256": "8CEBCD4B957C0D4DF075CD4BF70B2BD3A32E063B845510EF76D67F341EB7AE4D"
+        },
+        {
+            "Name": "SQLitePCLRaw.core.dll",
+            "Path": "dll\\SQLitePCLRaw.core.dll",
+            "Size": 46080,
+            "SHA256": "E917E58ED1D53424B23B3091A8BE8C17F3627190EEA38448EB88BBC80147365F"
+        },
+        {
+            "Name": "SQLitePCLRaw.nativelibrary.dll",
+            "Path": "dll\\SQLitePCLRaw.nativelibrary.dll",
+            "Size": 9728,
+            "SHA256": "5E16C0795FB6FEB21013BEBD1CD206B6C488FBC29A6B053DD67E1696E320F90A"
+        },
+        {
+            "Name": "SQLitePCLRaw.provider.dynamic_cdecl.dll",
+            "Path": "dll\\SQLitePCLRaw.provider.dynamic_cdecl.dll",
+            "Size": 56832,
+            "SHA256": "63237364887BA1F0C5359EE8F7F5B1ED6B9C0ADCAA07DE52142BB11D1018ED59"
         },
         {
             "Name": "System.Buffers.dll",
@@ -158,22 +206,40 @@
             "SHA256": "A987CF760F77C2AB15C6E3071D744524F88A753B8BD19FBD12997964A908168D"
         },
         {
+            "Name": "e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-arm\\native\\e_sqlite3.dll",
+            "Size": 870400,
+            "SHA256": "B15EF8BF60D419066146C6D4686D98073B462EE32B7353A48AF5853543AC5AE1"
+        },
+        {
+            "Name": "e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-x64\\native\\e_sqlite3.dll",
+            "Size": 1265664,
+            "SHA256": "3B73661441E0A7A439D5B2A1190D2C9BB326E54BCDB180AAD9F0366BDBD47E07"
+        },
+        {
+            "Name": "e_sqlite3.dll",
+            "Path": "dll\\runtimes\\win-x86\\native\\e_sqlite3.dll",
+            "Size": 989184,
+            "SHA256": "9877F703CE3FB9669D656D24726159B616B2DF25522225BF41BFAFE89954C58A"
+        },
+        {
             "Name": "CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 4915,
-            "SHA256": "764DE05DAEAE9EED6D2127221587610FC94246A420645BB5BAC3E2476EF15588"
+            "Size": 5069,
+            "SHA256": "963A0E8849A5496291B34393BC2D2F7B260C20B7F944044BEA36C1565156EEBA"
         },
         {
             "Name": "WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 18230,
-            "SHA256": "D4F371CFF8382B665F02B4A9D407E0FC41277A188E1032B28CB2AE042C998E45"
+            "Size": 18064,
+            "SHA256": "E6F8266EF9FDBC1F421DA5280C730A18A2A89B97BC6767276F78732EFA8A2045"
         },
         {
             "Name": "WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 9051,
-            "SHA256": "933DBA4BF701F2FA00722813D9A9E98616A911AF4F998E45C9767C315E6675B0"
+            "Size": 9755,
+            "SHA256": "1EFB1D193FC80FB94DB69380521EB976EFE5AB990B64B959C8C9770651B69E4F"
         }
     ]
 }
