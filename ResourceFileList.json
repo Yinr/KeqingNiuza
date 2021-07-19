@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-07-18T09:57:28.121039+08:00",
-    "FileCount": 272,
-    "TotalSize": 11650,
+    "LastUpdateTime": "2021-07-19T23:22:26.2310595+08:00",
+    "FileCount": 274,
+    "TotalSize": 11746,
     "Files": [
         {
             "Name": "Aether.png",
@@ -275,6 +275,13 @@
             "Path": "resource\\character\\Character_Amber_Thumb.png",
             "Size": 63822,
             "SHA256": "AAE3AA227A5B951CA046FC92B41BF64C8BE61D62D625BD52F1A9336566999F3D"
+        },
+        {
+            "Name": "Character_Ayaka_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Ayaka_Thumb.png",
+            "Path": "resource\\character\\Character_Ayaka_Thumb.png",
+            "Size": 66895,
+            "SHA256": "57FC3A42DA41ACADBF8F3F8F4CB5E17EDA6638FC4B1128F99DAF9128EF1493D6"
         },
         {
             "Name": "Character_Barbara_Portrait.png",
@@ -735,22 +742,22 @@
             "Name": "CharacterInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 5069,
-            "SHA256": "963A0E8849A5496291B34393BC2D2F7B260C20B7F944044BEA36C1565156EEBA"
+            "Size": 4382,
+            "SHA256": "7ABEEFE9041999B7A8AC6BA80FBA0ACCEBBF68F01D2BCAAE85F38F066A56B08D"
         },
         {
             "Name": "WeaponInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 18064,
-            "SHA256": "E6F8266EF9FDBC1F421DA5280C730A18A2A89B97BC6767276F78732EFA8A2045"
+            "Size": 15523,
+            "SHA256": "D5851E1194E3FEC43D18B6E7999C76908EB7CF67188FA3A609DF594BB8A88494"
         },
         {
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 9755,
-            "SHA256": "1EFB1D193FC80FB94DB69380521EB976EFE5AB990B64B959C8C9770651B69E4F"
+            "Size": 10432,
+            "SHA256": "92A677F6D0781B6EC608BF783C17E022C9980B248865F681F6A7A9B0310EAE05"
         },
         {
             "Name": "Air - 鸟之诗.mid",
@@ -1472,6 +1479,13 @@
             "Path": "resource\\weapon\\Weapon_Messenger.png",
             "Size": 29805,
             "SHA256": "C8457F6ADE7F4C91040A5898D476A03856840EF3B9C64C513745E86776849B45"
+        },
+        {
+            "Name": "Weapon_Mistsplitter_Reforged.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Mistsplitter_Reforged.png",
+            "Path": "resource\\weapon\\Weapon_Mistsplitter_Reforged.png",
+            "Size": 192016,
+            "SHA256": "2C85B2EBCC12DE6E2C9EF04D2162F51D83BC4D80BDAB86B62DF231B1FECFB878"
         },
         {
             "Name": "Weapon_Mitternachts_Waltz.png",
