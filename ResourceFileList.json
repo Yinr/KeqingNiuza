@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-07-21T09:01:46.0907046+08:00",
-    "FileCount": 274,
-    "TotalSize": 11746,
+    "LastUpdateTime": "2021-07-22T10:16:50.3536729+08:00",
+    "FileCount": 275,
+    "TotalSize": 11795,
     "Files": [
         {
             "Name": "Aether.png",
@@ -275,6 +275,13 @@
             "Path": "resource\\character\\Character_Amber_Thumb.png",
             "Size": 63822,
             "SHA256": "AAE3AA227A5B951CA046FC92B41BF64C8BE61D62D625BD52F1A9336566999F3D"
+        },
+        {
+            "Name": "Character_Ayaka_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Ayaka_Portrait.png",
+            "Path": "resource\\character\\Character_Ayaka_Portrait.png",
+            "Size": 528991,
+            "SHA256": "3893D1B6896DE13534D8D7C42A73089940339AC2078140DAD7121EABAB4B99D3"
         },
         {
             "Name": "Character_Ayaka_Thumb.png",
@@ -1484,8 +1491,8 @@
             "Name": "Weapon_Mistsplitter_Reforged.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Mistsplitter_Reforged.png",
             "Path": "resource\\weapon\\Weapon_Mistsplitter_Reforged.png",
-            "Size": 192016,
-            "SHA256": "2C85B2EBCC12DE6E2C9EF04D2162F51D83BC4D80BDAB86B62DF231B1FECFB878"
+            "Size": 95699,
+            "SHA256": "CC7E13D9150B19DC60344804AE521E8E078BE55238DA7A332C630466813F3A29"
         },
         {
             "Name": "Weapon_Mitternachts_Waltz.png",
