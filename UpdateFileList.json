@@ -1,23 +1,29 @@
 {
-    "Version": "0.2.3.21072210",
-    "UpdateTime": "2021-07-22T10:16:52.6211341+08:00",
+    "Version": "0.2.3.21072711",
+    "UpdateTime": "2021-07-27T11:55:25.8575745+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.3.21072210.zip",
-    "PackageName": "KeqingNiuza_0.2.3.21072210.zip",
-    "PackageSHA256": "2AA13BECBB5CA6D5C94B84D6C685FB85F3FB1157A38F3698ACE19BFFC49740F7",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.3.21072711.zip",
+    "PackageName": "KeqingNiuza_0.2.3.21072711.zip",
+    "PackageSHA256": "F24FACECB5B4EF46C23ABD399F02BC962CC4E3DB5CAD5621B6B9291F6A3CB49E",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
             "Size": 770048,
-            "SHA256": "403F09A4C24B07E7013DB13B9F493D3791608A6BC611B5B5FD086EFFA56D85C6"
+            "SHA256": "DE532B1FC4997C94A32BED5F9A98B2036176D5B473FE5A13825025B9FA578CB3"
         },
         {
             "Name": "KeqingNiuza.exe.config",
             "Path": "KeqingNiuza.exe.config",
             "Size": 2364,
             "SHA256": "889D3FE06D5D598A902E60853AD096B6069C7831238865FB8F89E7625F9075A2"
+        },
+        {
+            "Name": "权限提醒.txt",
+            "Path": "权限提醒.txt",
+            "Size": 349,
+            "SHA256": "4D2D305072E57E5F6008E074B0F42EFDF0A84E82E936CD5E5C7268D62136C124"
         },
         {
             "Name": "ControlzEx.dll",
@@ -47,7 +53,7 @@
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2870784,
-            "SHA256": "1101428E9B5BF8B4D2A8B8F597177C0F95447F6565D5E38ACA72939D854B3955"
+            "SHA256": "92E8032C72A07664FFD2106039F0CABBF7F3857606659CA5586BCFC2000BE769"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",
