@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-07-30T17:09:02.8020577+08:00",
-    "FileCount": 275,
-    "TotalSize": 11795,
+    "LastUpdateTime": "2021-08-09T11:08:02.5339197+08:00",
+    "FileCount": 280,
+    "TotalSize": 12032,
     "Files": [
         {
             "Name": "Aether.png",
@@ -599,6 +599,20 @@
             "SHA256": "CE2D18A076A080B51F71B34BD7227A5BA529DA0D9C4B18FFAF0C96BF82362BA4"
         },
         {
+            "Name": "Character_Sayu_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sayu_Portrait.png",
+            "Path": "resource\\character\\Character_Sayu_Portrait.png",
+            "Size": 861084,
+            "SHA256": "7F50E1F38D30E3A80F1AAB6F6C8106BD888A233CA2868C2E5F2C1FF5BDB094AC"
+        },
+        {
+            "Name": "Character_Sayu_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sayu_Thumb.png",
+            "Path": "resource\\character\\Character_Sayu_Thumb.png",
+            "Size": 63474,
+            "SHA256": "CAC230AE100302F95EC878883B2515FF843D016E7B93657697BFCE58E6B567D1"
+        },
+        {
             "Name": "Character_Sucrose_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sucrose_Portrait.png",
             "Path": "resource\\character\\Character_Sucrose_Portrait.png",
@@ -732,6 +746,20 @@
             "SHA256": "FC95568890E6761BA7F9DC90B158A704F21ED65AA0177706EEA163FE74AB89C6"
         },
         {
+            "Name": "Character_Yoimiya_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Yoimiya_Portrait.png",
+            "Path": "resource\\character\\Character_Yoimiya_Portrait.png",
+            "Size": 793913,
+            "SHA256": "F5CDB59D21EB256190E2637325CC74E8EB117480FCBAC58FDBE52BEE5E73FEF9"
+        },
+        {
+            "Name": "Character_Yoimiya_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Yoimiya_Thumb.png",
+            "Path": "resource\\character\\Character_Yoimiya_Thumb.png",
+            "Size": 86561,
+            "SHA256": "A90D13CEC94D5A896C7B51C85058998274E024B8686937C84ECBF29CB5FE085F"
+        },
+        {
             "Name": "Character_Zhongli_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Zhongli_Portrait.png",
             "Path": "resource\\character\\Character_Zhongli_Portrait.png",
@@ -749,22 +777,22 @@
             "Name": "CharacterInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 4382,
-            "SHA256": "7ABEEFE9041999B7A8AC6BA80FBA0ACCEBBF68F01D2BCAAE85F38F066A56B08D"
+            "Size": 4629,
+            "SHA256": "2D578D742006CA933AF197C72EA8BF6B221A174A42AF474FEE93129E217A45A1"
         },
         {
             "Name": "WeaponInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 15523,
-            "SHA256": "D5851E1194E3FEC43D18B6E7999C76908EB7CF67188FA3A609DF594BB8A88494"
+            "Size": 15665,
+            "SHA256": "EA478B5663762469C0B9A8B1B2C659E843537971830B23A9C1D2F3A9A1DFA01A"
         },
         {
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 10432,
-            "SHA256": "92A677F6D0781B6EC608BF783C17E022C9980B248865F681F6A7A9B0310EAE05"
+            "Size": 11106,
+            "SHA256": "A455C49D8625A245C2206A7CA2660D4A704B357E54BFFC897E2E7E3A530A9971"
         },
         {
             "Name": "Air - 鸟之诗.mid",
@@ -1857,6 +1885,13 @@
             "Path": "resource\\weapon\\Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
             "Size": 41546,
             "SHA256": "C6901D86FE8656C3F67E5E79EABC3A94DD5E06E75BDA9115A430A5112A6F665C"
+        },
+        {
+            "Name": "Weapon_Thundering_Pulse.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Thundering_Pulse.png",
+            "Path": "resource\\weapon\\Weapon_Thundering_Pulse.png",
+            "Size": 278592,
+            "SHA256": "0F3772A23BFA1BCA293B1B1C64A5FADAF0625353BF09B662290F4E2820DC7254"
         },
         {
             "Name": "Weapon_Traveler\u0027s_Handy_Sword.png",
