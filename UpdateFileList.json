@@ -1,23 +1,23 @@
 {
-    "Version": "0.2.3.21073017",
-    "UpdateTime": "2021-07-30T17:09:05.2097131+08:00",
+    "Version": "0.2.4.21081109",
+    "UpdateTime": "2021-08-11T09:36:13.3047474+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.3.21073017.zip",
-    "PackageName": "KeqingNiuza_0.2.3.21073017.zip",
-    "PackageSHA256": "941E69CE2A3996C5DEE89B1241C2D4C717850B6CE987DAE08A654BFEF3E17C3C",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.4.21081109.zip",
+    "PackageName": "KeqingNiuza_0.2.4.21081109.zip",
+    "PackageSHA256": "9AB0109E08C55AE14EA3E12EF430D75F47CA7BFB60C757E3BEEC86883F4A1754",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
-            "Size": 775168,
-            "SHA256": "C5F7E2F58E59544CD6C89EDC4EB4C578D865C7333C049D55E59E48639AD58831"
+            "Size": 776192,
+            "SHA256": "415D44C61AF0187330767ED8BE743E91264C9569100D7DB66BF193BF1873A708"
         },
         {
             "Name": "KeqingNiuza.exe.config",
             "Path": "KeqingNiuza.exe.config",
-            "Size": 2364,
-            "SHA256": "889D3FE06D5D598A902E60853AD096B6069C7831238865FB8F89E7625F9075A2"
+            "Size": 2467,
+            "SHA256": "E62E6330D95703D92F21872F7071C0018DED00235CE1D98FB7CD64A936224F46"
         },
         {
             "Name": "权限提醒.txt",
@@ -53,7 +53,7 @@
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2870784,
-            "SHA256": "B81EDFAC6798749B7525B7C2550A83AB790A1F04D6A7DD39F72AB03F47275F01"
+            "SHA256": "697BFBFD56E7ED1D9CAADE47E661CE3776B76F427352A36051089EB5912CE2C2"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",
@@ -64,8 +64,8 @@
         {
             "Name": "KeqingNiuza.Wish.dll",
             "Path": "dll\\KeqingNiuza.Wish.dll",
-            "Size": 70656,
-            "SHA256": "7D3195E5E26D66857EEC6F78FD2FDA3D7316E6DA45FB7F6FA7642A24F04C28C4"
+            "Size": 71168,
+            "SHA256": "F561418494B93882C75FDA839086BA6F13440099CCFB77E7AB2A60FE031F73AC"
         },
         {
             "Name": "LiveCharts.dll",
@@ -232,20 +232,20 @@
         {
             "Name": "CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 4382,
-            "SHA256": "7ABEEFE9041999B7A8AC6BA80FBA0ACCEBBF68F01D2BCAAE85F38F066A56B08D"
+            "Size": 4629,
+            "SHA256": "2D578D742006CA933AF197C72EA8BF6B221A174A42AF474FEE93129E217A45A1"
         },
         {
             "Name": "WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 15523,
-            "SHA256": "D5851E1194E3FEC43D18B6E7999C76908EB7CF67188FA3A609DF594BB8A88494"
+            "Size": 15665,
+            "SHA256": "EA478B5663762469C0B9A8B1B2C659E843537971830B23A9C1D2F3A9A1DFA01A"
         },
         {
             "Name": "WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 10432,
-            "SHA256": "92A677F6D0781B6EC608BF783C17E022C9980B248865F681F6A7A9B0310EAE05"
+            "Size": 10710,
+            "SHA256": "D1B9AE23B5E23A7171E1CE9A613E1F45ADA56109F72C00DA79DDCB0D70E3DBC1"
         }
     ]
 }

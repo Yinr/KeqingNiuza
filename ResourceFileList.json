@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-08-09T11:08:02.5339197+08:00",
-    "FileCount": 280,
-    "TotalSize": 12032,
+    "LastUpdateTime": "2021-08-11T09:36:11.40717+08:00",
+    "FileCount": 284,
+    "TotalSize": 12142,
     "Files": [
         {
             "Name": "Aether.png",
@@ -23,6 +23,13 @@
             "Path": "resource\\avatar\\Amber.png",
             "Size": 23866,
             "SHA256": "7AA33A4065BFC07A4BF0B87F0E6BA81B33837004D820FECC5737303A214BD48A"
+        },
+        {
+            "Name": "Ayaka.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Ayaka.png",
+            "Path": "resource\\avatar\\Ayaka.png",
+            "Size": 20386,
+            "SHA256": "588895E0AB42563FF4D386DECF3E47A19A766F107A8344E60D47D25A8AF7519F"
         },
         {
             "Name": "Barbara.png",
@@ -109,6 +116,13 @@
             "SHA256": "374085559175AE8810707FDFF7E7064AD2781FB54DF33E1FFF558BB77F7B394F"
         },
         {
+            "Name": "Kazuha.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Kazuha.png",
+            "Path": "resource\\avatar\\Kazuha.png",
+            "Size": 81358,
+            "SHA256": "292EEB7949BC477F1C3DAE5563269F8156F697364B7B7318F7415F5F28C4AAD8"
+        },
+        {
             "Name": "Keqing.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Keqing.png",
             "Path": "resource\\avatar\\Keqing.png",
@@ -186,6 +200,13 @@
             "SHA256": "A13F97E0A1C85C3551771499F1C2C2ED163B7ED028066D5A6A96525DCF06B40C"
         },
         {
+            "Name": "Sayu.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Sayu.png",
+            "Path": "resource\\avatar\\Sayu.png",
+            "Size": 74116,
+            "SHA256": "5EE0618C9CF2F17A04532477956CC1BA5F20E49A2FE0B1C3E886384D0FD0D57D"
+        },
+        {
             "Name": "Sucrose.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Sucrose.png",
             "Path": "resource\\avatar\\Sucrose.png",
@@ -240,6 +261,13 @@
             "Path": "resource\\avatar\\Yanfei.png",
             "Size": 91898,
             "SHA256": "77D388E9265C1122B708E9DE5F5CA8E0632764265F7C0364115F9CF00C3127D6"
+        },
+        {
+            "Name": "Yoimiya.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Yoimiya.png",
+            "Path": "resource\\avatar\\Yoimiya.png",
+            "Size": 24032,
+            "SHA256": "EAD8B3732F9BE3E3260D1438CA481F54C7DE8EC2E2DDCDE39EE4F0F28FBD1378"
         },
         {
             "Name": "Zhongli.png",
@@ -791,8 +819,8 @@
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 11106,
-            "SHA256": "A455C49D8625A245C2206A7CA2660D4A704B357E54BFFC897E2E7E3A530A9971"
+            "Size": 10710,
+            "SHA256": "D1B9AE23B5E23A7171E1CE9A613E1F45ADA56109F72C00DA79DDCB0D70E3DBC1"
         },
         {
             "Name": "Air - 鸟之诗.mid",
