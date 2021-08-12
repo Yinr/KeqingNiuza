@@ -1,17 +1,17 @@
 {
-    "Version": "0.2.4.21081109",
-    "UpdateTime": "2021-08-11T09:36:13.3047474+08:00",
+    "Version": "0.2.5.21081211",
+    "UpdateTime": "2021-08-12T11:52:35.9374633+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.4.21081109.zip",
-    "PackageName": "KeqingNiuza_0.2.4.21081109.zip",
-    "PackageSHA256": "9AB0109E08C55AE14EA3E12EF430D75F47CA7BFB60C757E3BEEC86883F4A1754",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_0.2.5.21081211.zip",
+    "PackageName": "KeqingNiuza_0.2.5.21081211.zip",
+    "PackageSHA256": "223D3529E45AFFACD24B1235DC48C7C4FA929B9BBEBB3A631E52DC98D0F8A7C0",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
-            "Size": 776192,
-            "SHA256": "415D44C61AF0187330767ED8BE743E91264C9569100D7DB66BF193BF1873A708"
+            "Size": 777216,
+            "SHA256": "80C697F57351CE74BCF090CECB11ECCD1B17EED57EAC74FEFEC7A363B3E61ADC"
         },
         {
             "Name": "KeqingNiuza.exe.config",
@@ -46,14 +46,14 @@
         {
             "Name": "KeqingNiuza.CloudBackup.dll",
             "Path": "dll\\KeqingNiuza.CloudBackup.dll",
-            "Size": 21504,
-            "SHA256": "77685D5673F968AC50C4029717BA8B111448637AC4D0DDDDD47FEB0E10CC7AB6"
+            "Size": 22528,
+            "SHA256": "703A97B630C22C30CB90D6724390D156E67D7A8DD7A7D356C27F98796835392F"
         },
         {
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2870784,
-            "SHA256": "697BFBFD56E7ED1D9CAADE47E661CE3776B76F427352A36051089EB5912CE2C2"
+            "SHA256": "DEB5CEA29E548BB537853F29F6E6D72594E079B4BA906A8806AAAA35B0639AC9"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",
@@ -245,7 +245,7 @@
             "Name": "WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
             "Size": 10710,
-            "SHA256": "D1B9AE23B5E23A7171E1CE9A613E1F45ADA56109F72C00DA79DDCB0D70E3DBC1"
+            "SHA256": "42F89AD4A5ED86D6F8AEA0679C5B0B909C3406A65F74736A06C7814125E5276D"
         }
     ]
 }
