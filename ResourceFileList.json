@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-08-12T11:52:33.6467869+08:00",
-    "FileCount": 284,
-    "TotalSize": 12142,
+    "LastUpdateTime": "2021-08-30T12:32:47.4141314+08:00",
+    "FileCount": 290,
+    "TotalSize": 12479,
     "Files": [
         {
             "Name": "Aether.png",
@@ -529,6 +529,20 @@
             "SHA256": "D05F62A06AEFC5C34FDD0088B2AA079D1E7E8EA4FE338F3DF77432578862D7A1"
         },
         {
+            "Name": "Character_Kujou_Sara_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kujou_Sara_Portrait.png",
+            "Path": "resource\\character\\Character_Kujou_Sara_Portrait.png",
+            "Size": 492155,
+            "SHA256": "5D138419B5527428CA86EC3BE21157228786CE6AACF9D4C49F561555211AEA6F"
+        },
+        {
+            "Name": "Character_Kujou_Sara_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kujou_Sara_Thumb.png",
+            "Path": "resource\\character\\Character_Kujou_Sara_Thumb.png",
+            "Size": 61377,
+            "SHA256": "E50380E2419ACE2E8FA94E859D3C48E72D897F1F8301B961BEF28AECF6AE9530"
+        },
+        {
             "Name": "Character_Lisa_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Lisa_Portrait.png",
             "Path": "resource\\character\\Character_Lisa_Portrait.png",
@@ -599,6 +613,20 @@
             "SHA256": "FF0A7D73DF5544DEE57AF37E80E2FA35733C75D95F31025BEE5306F164039F5E"
         },
         {
+            "Name": "Character_Raiden_Shogun_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Raiden_Shogun_Portrait.png",
+            "Path": "resource\\character\\Character_Raiden_Shogun_Portrait.png",
+            "Size": 625483,
+            "SHA256": "1EF9475AAAA433D5600B7BE96DD858A438F088A63EF3AA669151AF837DB6C482"
+        },
+        {
+            "Name": "Character_Raiden_Shogun_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Raiden_Shogun_Thumb.png",
+            "Path": "resource\\character\\Character_Raiden_Shogun_Thumb.png",
+            "Size": 66916,
+            "SHA256": "ED66926C6DFF65DEF5BDCD30CFC463296B1576DAE5A26B342CA0A3938DEB27E1"
+        },
+        {
             "Name": "Character_Razor_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Razor_Portrait.png",
             "Path": "resource\\character\\Character_Razor_Portrait.png",
@@ -627,18 +655,32 @@
             "SHA256": "CE2D18A076A080B51F71B34BD7227A5BA529DA0D9C4B18FFAF0C96BF82362BA4"
         },
         {
+            "Name": "Character_Sangonomiya_Kokomi_Portrait.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sangonomiya_Kokomi_Portrait.png",
+            "Path": "resource\\character\\Character_Sangonomiya_Kokomi_Portrait.png",
+            "Size": 658072,
+            "SHA256": "A9F87148758F055C9D8A940E90079A1E6C9ADBC6BF2FB78DFF002B85248EE557"
+        },
+        {
+            "Name": "Character_Sangonomiya_Kokomi_Thumb.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sangonomiya_Kokomi_Thumb.png",
+            "Path": "resource\\character\\Character_Sangonomiya_Kokomi_Thumb.png",
+            "Size": 54518,
+            "SHA256": "B527965D504C400285419843B569EEA5F418A51E67B7F706DA0E2584E6BE0201"
+        },
+        {
             "Name": "Character_Sayu_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sayu_Portrait.png",
             "Path": "resource\\character\\Character_Sayu_Portrait.png",
-            "Size": 861084,
-            "SHA256": "7F50E1F38D30E3A80F1AAB6F6C8106BD888A233CA2868C2E5F2C1FF5BDB094AC"
+            "Size": 540237,
+            "SHA256": "531BC11F86A0EDC3C4716161497BBD84D9E0F26F8A36E00AD2F41CDD55BE213C"
         },
         {
             "Name": "Character_Sayu_Thumb.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sayu_Thumb.png",
             "Path": "resource\\character\\Character_Sayu_Thumb.png",
-            "Size": 63474,
-            "SHA256": "CAC230AE100302F95EC878883B2515FF843D016E7B93657697BFCE58E6B567D1"
+            "Size": 83650,
+            "SHA256": "B7DB10DDDD180CCB222A3D53C1B570EBB1EB5104F850E7B51849C982A8F20621"
         },
         {
             "Name": "Character_Sucrose_Portrait.png",
@@ -777,8 +819,8 @@
             "Name": "Character_Yoimiya_Portrait.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Yoimiya_Portrait.png",
             "Path": "resource\\character\\Character_Yoimiya_Portrait.png",
-            "Size": 793913,
-            "SHA256": "F5CDB59D21EB256190E2637325CC74E8EB117480FCBAC58FDBE52BEE5E73FEF9"
+            "Size": 429228,
+            "SHA256": "788CE139F7FB04CC7A70B434036B4B748D6D6D4F5E60A2C2F0848A3368EF2F57"
         },
         {
             "Name": "Character_Yoimiya_Thumb.png",
@@ -805,22 +847,22 @@
             "Name": "CharacterInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/CharacterInfoList.json",
             "Path": "resource\\list\\CharacterInfoList.json",
-            "Size": 4629,
-            "SHA256": "2D578D742006CA933AF197C72EA8BF6B221A174A42AF474FEE93129E217A45A1"
+            "Size": 5045,
+            "SHA256": "4081C6BBD3478912E3012F1442CE8656D75EAE1110A7693E52CDF0E0ABC81184"
         },
         {
             "Name": "WeaponInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 15665,
-            "SHA256": "EA478B5663762469C0B9A8B1B2C659E843537971830B23A9C1D2F3A9A1DFA01A"
+            "Size": 15953,
+            "SHA256": "204F634D88255A961BE90782A48676F8DFEC6288B0B45E111991FBE8C8175904"
         },
         {
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 10710,
-            "SHA256": "42F89AD4A5ED86D6F8AEA0679C5B0B909C3406A65F74736A06C7814125E5276D"
+            "Size": 11372,
+            "SHA256": "C09E8D4DD6F9910EAA2FE06CC271C254491E88AD2896A323DCE728F615AFFB80"
         },
         {
             "Name": "Air - 鸟之诗.mid",
