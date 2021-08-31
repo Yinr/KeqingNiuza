@@ -1,17 +1,17 @@
 {
-    "Version": "1.2.7912.22581",
-    "UpdateTime": "2021-08-30T12:32:49.1761091+08:00",
+    "Version": "1.2.7913.27375",
+    "UpdateTime": "2021-08-31T15:12:37.1323037+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_1.2.7912.22581.zip",
-    "PackageName": "KeqingNiuza_1.2.7912.22581.zip",
-    "PackageSHA256": "E349201C6B44BB839944FEDEFF7194AA64551409BDDFA6B2A7FD5B13231F0445",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_1.2.7913.27375.zip",
+    "PackageName": "KeqingNiuza_1.2.7913.27375.zip",
+    "PackageSHA256": "9BE4AEEBDFDC4F4E613E5A019F3EA4521A2683892981C915E35C7D7E77D1506D",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
-            "Size": 820736,
-            "SHA256": "73DF3A431141D8682F822450EF2D113360EE0C085F6D2913F99C96DEAABDEBE7"
+            "Size": 821248,
+            "SHA256": "00332931309B04DEAFE7EE153333311A6BF85EBD8023FF9CD7E7E7F103EA748A"
         },
         {
             "Name": "KeqingNiuza.exe.config",
