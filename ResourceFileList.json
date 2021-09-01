@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-09-01T08:05:08.9634718+08:00",
-    "FileCount": 290,
-    "TotalSize": 12479,
+    "LastUpdateTime": "2021-09-01T22:40:48.6646556+08:00",
+    "FileCount": 292,
+    "TotalSize": 12546,
     "Files": [
         {
             "Name": "Aether.png",
@@ -137,6 +137,13 @@
             "SHA256": "2918734EFBC7570D02C2A1D22E59B7F838FF7C9F485B9F536CB9131904C75B4B"
         },
         {
+            "Name": "Kujou Sara.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Kujou Sara.png",
+            "Path": "resource\\avatar\\Kujou Sara.png",
+            "Size": 19667,
+            "SHA256": "5900C81F1015096C430630152763E7B1B1C9494BC1553E82457B2317E67FDE40"
+        },
+        {
             "Name": "Lisa.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Lisa.png",
             "Path": "resource\\avatar\\Lisa.png",
@@ -184,6 +191,13 @@
             "Path": "resource\\avatar\\Qiqi.png",
             "Size": 22907,
             "SHA256": "AB9DC294F19D669956049EB31034D726CDDCA94D80DA997DE853BB07E7A704A4"
+        },
+        {
+            "Name": "Raiden Shogun.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Raiden Shogun.png",
+            "Path": "resource\\avatar\\Raiden Shogun.png",
+            "Size": 26098,
+            "SHA256": "2ECC745F1BB4F6FEFB72747B6AE617F5523E2D363C9CFD169631319F0E0FFE4A"
         },
         {
             "Name": "Razor.png",
@@ -539,8 +553,8 @@
             "Name": "Character_Kujou_Sara_Thumb.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Kujou_Sara_Thumb.png",
             "Path": "resource\\character\\Character_Kujou_Sara_Thumb.png",
-            "Size": 61377,
-            "SHA256": "E50380E2419ACE2E8FA94E859D3C48E72D897F1F8301B961BEF28AECF6AE9530"
+            "Size": 68573,
+            "SHA256": "A30A06B5C80A5AD3877F9775AC0A04E021E273BCDD34D5037C8D0A57F3DDB664"
         },
         {
             "Name": "Character_Lisa_Portrait.png",
@@ -623,8 +637,8 @@
             "Name": "Character_Raiden_Shogun_Thumb.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Raiden_Shogun_Thumb.png",
             "Path": "resource\\character\\Character_Raiden_Shogun_Thumb.png",
-            "Size": 66916,
-            "SHA256": "ED66926C6DFF65DEF5BDCD30CFC463296B1576DAE5A26B342CA0A3938DEB27E1"
+            "Size": 86204,
+            "SHA256": "FDE87C25C8B0B5876B014D92D3E5224D65FC3A16AFC34E64EADAD2DC8808BB53"
         },
         {
             "Name": "Character_Razor_Portrait.png",
