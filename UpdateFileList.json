@@ -1,17 +1,17 @@
 {
-    "Version": "1.2.7914.14552",
-    "UpdateTime": "2021-09-01T08:05:10.6832107+08:00",
+    "Version": "1.2.7930.23404",
+    "UpdateTime": "2021-09-17T13:00:11.7677989+08:00",
     "Description": null,
     "ShowUpdateLogView": false,
-    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_1.2.7914.14552.zip",
-    "PackageName": "KeqingNiuza_1.2.7914.14552.zip",
-    "PackageSHA256": "6CB415EF9F29FFA8A5D3450D213F72F2611ED9A84FC523518C0906FD733680BA",
+    "PackageUrl": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/KeqingNiuza/KeqingNiuza_1.2.7930.23404.zip",
+    "PackageName": "KeqingNiuza_1.2.7930.23404.zip",
+    "PackageSHA256": "753F82FA389A4E0438FCBCF5A4E70568351A0F3A60B3158D804DEDC2AB9E6D58",
     "AllFiles": [
         {
             "Name": "KeqingNiuza.exe",
             "Path": "KeqingNiuza.exe",
-            "Size": 821760,
-            "SHA256": "5BF340B99CE564EBA69E7404B56ED5E1DD7AAEE04F64DAB1B291DE3DB084D050"
+            "Size": 822272,
+            "SHA256": "58A00E57A601149A9778C398DDD1296B7853F46FA6FFAA85B49A36003E7D264B"
         },
         {
             "Name": "KeqingNiuza.exe.config",
@@ -47,31 +47,31 @@
             "Name": "KeqingNiuza.CloudBackup.dll",
             "Path": "dll\\KeqingNiuza.CloudBackup.dll",
             "Size": 26624,
-            "SHA256": "EF81E396414D64418797F5B87490F3081A5671F5F7CFFCA51E877DF88865134A"
+            "SHA256": "0A298D6BBF7B1AFA3F9797FF175498C6DC812FE90364E192DB9C859B725A54BF"
         },
         {
             "Name": "KeqingNiuza.Common.dll",
             "Path": "dll\\KeqingNiuza.Common.dll",
             "Size": 2874368,
-            "SHA256": "F7F900F854BC1B1206F1A88702F40795F8E6139128A124F95319B414CEAB9D88"
+            "SHA256": "DBFFC729611C78B1EF3F1729AAE51E78C47CC85AE9DE4E2C67CED0653F94A51D"
         },
         {
             "Name": "KeqingNiuza.DailyCheck.dll",
             "Path": "dll\\KeqingNiuza.DailyCheck.dll",
             "Size": 25088,
-            "SHA256": "9C09B5F4A5F4781652F44436A3EA6BA955FBE5F83AF2FCF1012820D1511F6434"
+            "SHA256": "5A5DADC9612052B0CB9AE2D6E550FE9893971A586E51F135007E42FFCA43A5F4"
         },
         {
             "Name": "KeqingNiuza.Midi.dll",
             "Path": "dll\\KeqingNiuza.Midi.dll",
             "Size": 35328,
-            "SHA256": "CE7549719A7F997D88529158D4218B3B87E21030A938B93B7B4223C8B70473AA"
+            "SHA256": "5EE30D3C4F0EB5311E30A4E847B07131DFE847C516A4E164AA0C280BE2E6252B"
         },
         {
             "Name": "KeqingNiuza.Wish.dll",
             "Path": "dll\\KeqingNiuza.Wish.dll",
             "Size": 82944,
-            "SHA256": "A6FA718B1B58765F2A9670554D1377502D4CA1F299F41D7C9730CDAD6C4022F5"
+            "SHA256": "2059B4E4D93464C8BC7631FE34A47AB8242495EDEBDBB18CB5294C59A0A09455"
         },
         {
             "Name": "LiveCharts.dll",
