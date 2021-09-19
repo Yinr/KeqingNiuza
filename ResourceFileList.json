@@ -1,5 +1,5 @@
 {
-    "LastUpdateTime": "2021-09-17T13:00:10.1760089+08:00",
+    "LastUpdateTime": "2021-09-19T17:56:57.6322203+08:00",
     "FileCount": 292,
     "TotalSize": 12546,
     "Files": [
@@ -875,8 +875,8 @@
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 11372,
-            "SHA256": "C09E8D4DD6F9910EAA2FE06CC271C254491E88AD2896A323DCE728F615AFFB80"
+            "Size": 12028,
+            "SHA256": "C7BF641EF2CFA07975E2746F754208E849502E67E229DA66C34B0B062613A2C1"
         },
         {
             "Name": "Air - 鸟之诗.mid",
