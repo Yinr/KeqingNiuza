@@ -1,7 +1,7 @@
 {
-    "LastUpdateTime": "2021-09-19T17:56:57.6322203+08:00",
-    "FileCount": 292,
-    "TotalSize": 12546,
+    "LastUpdateTime": "2021-10-12T21:54:45.050975+08:00",
+    "FileCount": 297,
+    "TotalSize": 12760,
     "Files": [
         {
             "Name": "Aether.png",
@@ -212,6 +212,13 @@
             "Path": "resource\\avatar\\Rosaria.png",
             "Size": 78338,
             "SHA256": "A13F97E0A1C85C3551771499F1C2C2ED163B7ED028066D5A6A96525DCF06B40C"
+        },
+        {
+            "Name": "Sangonomiya Kokomi.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/avatar/Sangonomiya Kokomi.png",
+            "Path": "resource\\avatar\\Sangonomiya Kokomi.png",
+            "Size": 19803,
+            "SHA256": "9F55B1AF675EB550865E6B2101CAEE1E685814BC9D3AC40C3B3A488916F845F3"
         },
         {
             "Name": "Sayu.png",
@@ -679,8 +686,8 @@
             "Name": "Character_Sangonomiya_Kokomi_Thumb.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/character/Character_Sangonomiya_Kokomi_Thumb.png",
             "Path": "resource\\character\\Character_Sangonomiya_Kokomi_Thumb.png",
-            "Size": 54518,
-            "SHA256": "B527965D504C400285419843B569EEA5F418A51E67B7F706DA0E2584E6BE0201"
+            "Size": 70606,
+            "SHA256": "C3DAD0F6FD8748E85F32B2B1EE3E22D4712D1D33EBAA2C72CED22C0CDC368EEB"
         },
         {
             "Name": "Character_Sayu_Portrait.png",
@@ -868,15 +875,15 @@
             "Name": "WeaponInfoList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WeaponInfoList.json",
             "Path": "resource\\list\\WeaponInfoList.json",
-            "Size": 15953,
-            "SHA256": "204F634D88255A961BE90782A48676F8DFEC6288B0B45E111991FBE8C8175904"
+            "Size": 16215,
+            "SHA256": "EC0BBE7FE35D426BD95ABA59F7FF2FF5783916BBF3035E4EA05FDF1962680329"
         },
         {
             "Name": "WishEventList.json",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/list/WishEventList.json",
             "Path": "resource\\list\\WishEventList.json",
-            "Size": 12028,
-            "SHA256": "C7BF641EF2CFA07975E2746F754208E849502E67E229DA66C34B0B062613A2C1"
+            "Size": 12669,
+            "SHA256": "51119203897E3F097FF498850B5B15127D953868A18EEB095431D0FFAD47DAF0"
         },
         {
             "Name": "Air - 鸟之诗.mid",
@@ -1250,6 +1257,13 @@
             "SHA256": "D26372130D5D9C49E84E82F6ED40704040356C482A1DB30F3DE75C46D6DFFF40"
         },
         {
+            "Name": "Weapon_Akuoumaru.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Akuoumaru.png",
+            "Path": "resource\\weapon\\Weapon_Akuoumaru.png",
+            "Size": 98770,
+            "SHA256": "4CDAD83DB0CE48CF4A2129FE8A210B7F7A286D062F6E765598BCB505FD8FA8B5"
+        },
+        {
             "Name": "Weapon_Alley_Hunter.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Alley_Hunter.png",
             "Path": "resource\\weapon\\Weapon_Alley_Hunter.png",
@@ -1430,6 +1444,20 @@
             "Path": "resource\\weapon\\Weapon_Emerald_Orb.png",
             "Size": 35735,
             "SHA256": "CBE51FD790D9020446CED6317093E3129B7F31634CC34D74376F246AD48338DF"
+        },
+        {
+            "Name": "Weapon_Engulfing_Lightning.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Engulfing_Lightning.png",
+            "Path": "resource\\weapon\\Weapon_Engulfing_Lightning.png",
+            "Size": 24613,
+            "SHA256": "E10AFB78EE9E0E8CD7DEA08FD4F114ABFBBAA714FA6E1B62E865478BAB44EE87"
+        },
+        {
+            "Name": "Weapon_Everlasting_Moonglow.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Everlasting_Moonglow.png",
+            "Path": "resource\\weapon\\Weapon_Everlasting_Moonglow.png",
+            "Size": 59224,
+            "SHA256": "9EF768AD87C8E39502549D24349B990719559E211B0E0BCCD3D43A71BE47AFFD"
         },
         {
             "Name": "Weapon_Eye_of_Perception.png",
@@ -1633,6 +1661,13 @@
             "Path": "resource\\weapon\\Weapon_Pocket_Grimoire.png",
             "Size": 42471,
             "SHA256": "13B375DFAA93E8A2691F28B1C7A4609FF3B68575F1B8C43AE78060CE800E1F96"
+        },
+        {
+            "Name": "Weapon_Polar_Star.png",
+            "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Polar_Star.png",
+            "Path": "resource\\weapon\\Weapon_Polar_Star.png",
+            "Size": 158329,
+            "SHA256": "212F941F1FB83F0EF873233A2741E574DB62089316CD07629687801E98DED401"
         },
         {
             "Name": "Weapon_Primordial_Jade_Cutter.png",
@@ -1974,8 +2009,8 @@
             "Name": "Weapon_Thundering_Pulse.png",
             "Url": "https://cdn.jsdelivr.net/gh/Scighost/KeqingNiuza@cdn/resource/weapon/Weapon_Thundering_Pulse.png",
             "Path": "resource\\weapon\\Weapon_Thundering_Pulse.png",
-            "Size": 278592,
-            "SHA256": "0F3772A23BFA1BCA293B1B1C64A5FADAF0625353BF09B662290F4E2820DC7254"
+            "Size": 41436,
+            "SHA256": "B120DDEB4FBEA91E06BDAC36AB092C08D235A481076876F763C4BF746112E8A7"
         },
         {
             "Name": "Weapon_Traveler\u0027s_Handy_Sword.png",
