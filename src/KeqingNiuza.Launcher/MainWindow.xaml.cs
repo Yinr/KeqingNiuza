@@ -21,12 +21,6 @@ namespace KeqingNiuza.Launcher
     /// </summary>
     public partial class MainWindow : Window, INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-        private void OnPropertyChanged([CallerMemberName] string propertyName = "")
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
-
         public MainWindow(string arg = null)
         {
             _arg = arg;
@@ -48,66 +42,46 @@ namespace KeqingNiuza.Launcher
 
         private bool _canceled;
 
-
+        #region Observable
         private string _InfoTest;
         public string InfoTest
         {
-            get { return _InfoTest; }
-            set
-            {
-                _InfoTest = value;
-                OnPropertyChanged();
-            }
+            get => _InfoTest;
+            set => Set(ref _InfoTest, value);
         }
 
 
         private string _ProgressTest;
         public string ProgressTest
         {
-            get { return _ProgressTest; }
-            set
-            {
-                _ProgressTest = value;
-                OnPropertyChanged();
-            }
+            get => _ProgressTest;
+            set => Set(ref _ProgressTest, value);
         }
 
 
         private string _SpeedTest;
         public string SpeedTest
         {
-            get { return _SpeedTest; }
-            set
-            {
-                _SpeedTest = value;
-                OnPropertyChanged();
-            }
+            get => _SpeedTest;
+            set => Set(ref _SpeedTest, value);
         }
 
 
         private bool _CanCancel = true;
         public bool CanCancel
         {
-            get { return _CanCancel; }
-            set
-            {
-                _CanCancel = value;
-                OnPropertyChanged();
-            }
+            get => _CanCancel; 
+            set => Set(ref _CanCancel, value);
         }
 
 
         private bool _CanRefresh;
         public bool CanRefresh
         {
-            get { return _CanRefresh; }
-            set
-            {
-                _CanRefresh = value;
-                OnPropertyChanged();
-            }
+            get => _CanRefresh; 
+            set => Set(ref _CanRefresh, value);
         }
-
+        #endregion
 
 
         private void Window_Initialized(object sender, EventArgs e)
@@ -117,7 +91,7 @@ namespace KeqingNiuza.Launcher
             try
             {
                 string[] files = Directory.GetFiles(".\\wallpaper");
-                if (files.Any())
+                if (files.Length > 0)
                 {
                     Random random = new Random((int)DateTime.Now.Ticks);
                     // 文件越靠后，被选中的概率越大
@@ -158,12 +132,21 @@ namespace KeqingNiuza.Launcher
             }
         }
 
-
+        /// <summary>
+        /// 标题栏拖动
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             DragMove();
         }
 
+        /// <summary>
+        /// 最小化
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Button_WindowMinimize_Click(object sender, RoutedEventArgs e)
         {
             WindowState = WindowState.Minimized;
@@ -443,6 +426,21 @@ namespace KeqingNiuza.Launcher
             }
         }
 
+        #region INotifyPropertyChanged
+        public event PropertyChangedEventHandler PropertyChanged;
 
+        protected void Set<T>(ref T storage, T value, [CallerMemberName] string propertyName = null)
+        {
+            if (Equals(storage, value))
+            {
+                return;
+            }
+
+            storage = value;
+            OnPropertyChanged(propertyName);
+        }
+
+        protected void OnPropertyChanged(string propertyName) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        #endregion
     }
 }
