@@ -118,9 +118,11 @@ namespace KeqingNiuza.Core.Wish
 
         public static WishStatistics GetStatistics(List<WishData> list, bool ignoreFirstStar5 = false)
         {
+            List<WishData> allList = null;
             if (ignoreFirstStar5)
             {
                 var i = list.FindIndex(x => x.Rank == 5);
+                allList = list;
                 list = list.Skip(i + 1).ToList();
             }
             if (list.Count == 0)
@@ -179,6 +181,17 @@ namespace KeqingNiuza.Core.Wish
             else
             {
                 ws.AverageUp5 = (double)(index + 1) / list.Count(x => x.Rank == 5 && (x.IsUp ?? false));
+            }
+            if (ignoreFirstStar5)
+            {
+                List<StarDetail> star5List = GetDetailList(allList, 5);
+                if (star5List.Any())
+                {
+                    star5List[0].Num = 0;
+                    star5List[0].Time = star5List[0].Time + "（不计入统计）";
+                }
+                ws.Star5List = star5List;
+                DefineColor(ws.Star5List);
             }
             return ws;
         }
